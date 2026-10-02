@@ -1,0 +1,6 @@
+print("Welcome to coding with python!")
+print("Hello python \n")
+print("4+2")
+print(4+2)
+print("Hello,5")
+print("This is coding", "#")
