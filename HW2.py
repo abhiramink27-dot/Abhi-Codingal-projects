@@ -1,15 +1,17 @@
-a=5
-print("The value of a is", a)
-print("The type of a is", type(a))
+sarah="14 March"
+print("Sarah's birthday is",sarah,"#besties")
 
-b=5.5
-print("The value of b is", b)
-print("The type of b is", type(b))
+adam="5th May"
+print("Adam's birthday is", adam,"Loves cars")
 
-c=False
-print("The value of c is", c)
-print("The type of c is", type(c))
+neha= "July 11"
+print("Neha's birthday is", neha,"Buying makeup!")
 
-d="yes"
-print("The value of d is", c)
-print("The type of d is", type(d))
+ben="21st September"
+print("Ben's birthday is", ben,)
+
+lucky="17th November"
+print("Lucky's birthday is",lucky,"Science time!")
+
+anil="5th December"
+print("My new friend Anil's birthday is",anil,"#Photography!")
